@@ -13,7 +13,7 @@ uses [Alpine Linux] as a base image with a small footprint.
 
 
 
-[MySQL Docker image]: https://hub.docker.com/r/fredym/rails/
+[MySQL Docker image]: https://hub.docker.com/r/fredym/mysql/
 [my Docker Hub profile]: https://hub.docker.com/u/fredym/
 [oficial MySQL image]: https://hub.docker.com/_/mysql/
 [Alpine Linux]: http://alpinelinux.org
