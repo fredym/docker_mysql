@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker build -t fredym/mysql .
+docker push fredym/mysql
